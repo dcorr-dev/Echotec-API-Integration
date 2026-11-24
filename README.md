@@ -1,5 +1,5 @@
 ---
-typora-root-url: .Capturas
+typora-root-url: ./Capturas
 ---
 
 # EcoTech Solutions – Integración de servicios externos
